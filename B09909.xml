@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal game of the ombre. Written at the request of divers honorable persons.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09909</idno><idno type="EEBO-CITATION">64551713</idno>
+  <idno type="VID">184781</idno>
+  <idno type="EEBO-PROQUEST">2240872019</idno>
+  
+            <idno type="STC">Wing R2130A</idno>
+            <idno type="STC">ESTC R182930</idno>
+            <idno type="OCLC">64551713</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184781)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal game of the ombre. Written at the request of divers honorable persons.</title>
+               </titleStmt>
+               <extent>[2], 12, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Brook, dwelling in the Black Swan Inn-Yard in Holborn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ombre (Game) --  Early works to 1800.</term>
+               <term type="topical_term">Games --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184781:1"/>
+            <p>THE ROYAL GAME OF THE OMBRE. WRITTEN At the Request of divers Honorable Persons.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Brook,</hi> dwelling in the Black Swan Inn-Yard in <hi>Holborn,</hi> 1660.</p>
+            <pb facs="tcp:184781:2"/>
+            <pb facs="tcp:184781:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184781:3"/>
+            <pb n="1" facs="tcp:184781:3"/>
+            <head>The ROYAL GAME. OF THE <hi>O'MBRE.</hi>
+            </head>
+            <p>
+               <hi>L'Ombre</hi> is a Spanish Game at Cards, as much as to say, <hi>The Man:</hi> so he who undertakes to play the Game, sayes <hi>Jo so l'Ombre,</hi> or, I am the <hi>man.</hi> And 'tis a common saying with the Spaniards, (allu<g ref="char:EOLhyphen"/>ding to the name) that the Spanish <hi>l'Ombre</hi> as far surpasses the French <hi>la Beste,</hi> as a <hi>Man</hi> do's a <hi>Beast.</hi> There are divers sorts of it, of which, this (which we shall onely treat of, and which chiefly is in vouge) is called the <hi>Renegado,</hi> for reasons better supprest then known.</p>
+            <div type="part">
+               <head>How many can play at it, and with what Cards they are to play.</head>
+               <p>There can onely three play at it, and they are dealt nine cards a piece: so by discarding
+<pb n="2" facs="tcp:184781:4"/>the Eights, Nines, and Tens out of the Pack, there remains thirteen Cards in the Stock.</p>
+            </div>
+            <div type="part">
+               <head>Of the Trump.</head>
+               <p>There is no turning up Trump, nor no Trump but what the Player pleases, the first hand having alwayes the choice to play or pass, after him the second, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Of the Stakes.</head>
+               <p>For Stakes there are two sorts of Marks or Counters, the greater &amp; the less; for example, if you value the great ones at 12. pence, the lesser may be pence the piece (and so accor<g ref="char:EOLhyphen"/>ding as you please) of which greater Marks you stake each one one for the Game: and the lesser for passing, for the hand, if you be eldest, and for taking in, giving for each Card you take in, one Mark or Counter.</p>
+            </div>
+            <div type="part">
+               <list>
+                  <head>Of the names of the Cards, and order in ranking them.</head>
+                  <item>
+                     <list>
+                        <head>Of the Black Suits.</head>
+                        <item>1. The Spadillio, or Ace of Spades.</item>
+                        <pb n="3" facs="tcp:184781:4"/>
+                        <item> 2. The Mallilio, or black Deuces of either suit</item>
+                        <item>3. The Basto, or Ace of Clubs.</item>
+                        <item>4. The King.</item>
+                        <item>5. Queen.</item>
+                        <item>6. Knave.</item>
+                        <item>7. Seven.</item>
+                        <item>8. Six.</item>
+                        <item>9. Five.</item>
+                        <item>10 Four.</item>
+                        <item>11. And Three.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Of the Red Suits.</head>
+                        <item>1. The Spadillio; or Ace of Spades.</item>
+                        <item>2. The Mallilio, or Sevens of either Suit.</item>
+                        <item>3. The Basto, or Ace of Clubs.</item>
+                        <item>4. The Punto, or Ace of Hearts or Dia<g ref="char:EOLhyphen"/>monds according as they are Trump.</item>
+                        <item>5. The King.</item>
+                        <item>6. The Queen.</item>
+                        <item>7. The Knave.</item>
+                        <item>8. The Deuce.</item>
+                        <item>9. The Tre.</item>
+                        <item>10. The Four.</item>
+                        <item>11. The Five.</item>
+                        <item>12. The Six.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:184781:5"/>
+               <head>Observations.</head>
+               <p>By this you see first that the <hi>Spadillio,</hi> or Ace of Spades is alwayes the first Card, and always Trump, be the Trump what suit soever; and the Basto, or Ace of Clubs always the third. Se<g ref="char:EOLhyphen"/>condly, that of Black, there are but eleven Trumps, &amp; of Red twelve. Thirdly, that the red Ace enters in the fourth place when it is trump, and then is called the <hi>Punto,</hi> otherwise 'tis onely rankt after the Knave, and is onely call'd the Ace. Fourthly, that (excepting the Deuces of Black, and Sevens of Red, which are call'd the <hi>Mallilio's,</hi> and are alwayes the second Cards when they are Trumps) the least small Cards of the Red are always best, and the greatest of the Black.</p>
+            </div>
+            <div type="part">
+               <head>Of the Matadors.</head>
+               <p>The <hi>Matadors</hi> or killing Cards, as the <hi>Spadillio, Mallilio,</hi> and <hi>Basto,</hi> are the three chief Cards, and for these, when they are all in a hand (else not) the others pay three of the greater Marks or Counters the piece; and though there be no counting <hi>Matadors</hi> without these three, yet with these three for foundation, you may count as
+<pb n="5" facs="tcp:184781:5"/>many as you have Cards in an interrupted series of Trumps; for all vvhich, the others are to pay you one Mark or Counter the piece, even to nine sometimes.</p>
+            </div>
+            <div type="part">
+               <head>Of taking in, and the order and man<g ref="char:EOLhyphen"/>ner of it.</head>
+               <p>Who has the first Hand, has choice of playing the Game, of naming the Trump, and of taking in as many or as fevv Cards as he pleases, and after him the second, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Observations.</head>
+               <p>First, he is to ask <hi>if any one will play without taking in,</hi> (when they have the choice of those who will not.) Secondly, he is never to take in, or play, unless he have three sure Tricks in his hand at least: To understand which the better, we must know</p>
+            </div>
+            <div type="part">
+               <head>The End of the Game.</head>
+               <p>The End of the Game is (as at Beast) to win most Tricks; whence he who can win five tricks of the Nine, has a sure Game; or if he win Four, and can so divide the Tricks, as one may
+<pb n="6" facs="tcp:184781:6"/>win Two, the other Three: if not, 'tis either <hi>Codillio</hi> or <hi>Repuesto,</hi> and the Player loses and makes good the Stakes.</p>
+            </div>
+            <div type="part">
+               <head>Of the Codillio.</head>
+               <p>They call it <hi>Codillio</hi> when the Player is beasted, and another wins more Tricks then he; when this takes up the Stakes, and tother makes it good: where note, that although the other two, always combine against the Player to make him lose, yet they all do their best (for the common good) to hinder any one from winning, onely striving to make it <hi>Repuesto.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the Repuesto.</head>
+               <p>They call it <hi>Repuesto</hi> when the Player wins no more Tricks then another: for example, if he win but four, another four, &amp; the third but one, or each of them win three Tricks the piece; in w<seg rend="sup">ch</seg> case the Plaier doubles the Stake, without any ones winning it, &amp; it remains so doubled for the advantage of the next Player, &amp;c. Whence you may collect, that the Player is as much concern'd in making <hi>Repuesto,</hi> in case of necessity, as any of the rest, by which means the Stakes oftentimes increasing to a
+<pb n="7" facs="tcp:184781:6"/>considerable sum, The Player is to be very wary what Games he playes.</p>
+            </div>
+            <div type="part">
+               <head>What Games are to be played.</head>
+               <p>One is never to play unless he have three sure Tricks in his hand at least, as we have said before; as the three Matadors, or six or seven good Trumps without them; where note, the Kings of any Suit are alwayes accounted as good as Trumps (since nothing but Trumps can win them) mean while all other Cards but them and Trumps, are to be discarded.</p>
+            </div>
+            <div type="part">
+               <head>Observations.</head>
+               <p>He who plays having taken in, the next is to consider the goodness of his Game, and to take in more or less, according as his Game is pro<g ref="char:EOLhyphen"/>bably like to prove good or bad, always consi<g ref="char:EOLhyphen"/>dering, that 'tis as much his advantage that the third have a good Game to make it <hi>Repuesto,</hi> as himself. Neither is any one, for Covetousness of saving a Counter or two, to neglect the ta<g ref="char:EOLhyphen"/>king in, that the other may commodiously make up his Game with the Cards which he leaves; and that no good Cards may lye dor<g ref="char:EOLhyphen"/>mant in the Stock, except the Player playes
+<pb n="8" facs="tcp:184781:7"/>without taking in when they may refuse to take in, if they imagine he has all the Game.</p>
+            </div>
+            <div type="part">
+               <head>Of playing without taking in.</head>
+               <p>When one has a sure Game in his hand, he is to play without taking in, when the others are to give him each of them one of the greater Marks or Counters, as he is to give them, if he play without taking in, a Game that is not sure, and loses it.</p>
+            </div>
+            <div type="part">
+               <head>Of the Voll.</head>
+               <p>If you win all the Tricks in your hand, or the <hi>Voll,</hi> they likewise are to give you one Mark or Counter the piece; but then you are to declare before the fifth Trick, that you intend to play for the <hi>Voll,</hi> that so they may keep their best Cards, which else seeing you win five Tricks (or the Game) they may carelesly cast away.</p>
+            </div>
+            <div type="part">
+               <head>Of the Forfeitures.</head>
+               <p>If you Renounce, you are to double the Stake, as also if you have more or fewer Cards then Nine, (to avoid all wrangling and fowl play) to which end you are carefully to count your Cards
+<pb n="9" facs="tcp:184781:7"/>both in dealing and taking in, before you look on them; besides, according to the Rigor of the Game, if you speak any thing that may discover your Game, or anothers (excepting only <hi>Gagno,</hi> as we shall declare afterwards) or play so, as wittingly to hinder the making it <hi>Repuesto</hi> or <hi>Codillio</hi> (and if ignorantly, you are not fit to play.)</p>
+            </div>
+            <div type="part">
+               <head>Of playing Trumps.</head>
+               <p>In playing Trumps you are to note, that if any playes an ordinary Trump, and you have onely the three best Cards, or <hi>Matadors,</hi> singly, or conjointly in your hands, you may refuse to play them, without Renouncing, because of the priviledge which those Cards have, that none but commanding Cards can force them out of your hands; as for example, the <hi>Spadillio</hi> forces the <hi>Mallilio,</hi> and the <hi>Mallilio</hi> the <hi>Basto;</hi> for all the rest you are to follow Trump.</p>
+            </div>
+            <div type="part">
+               <head>Of what you are to say.</head>
+               <p>You are to say nothing but onely <hi>I pass,</hi> or <hi>play,</hi> or <hi>Gagno,</hi> that is, <hi>'tis mine,</hi> simply, when you play your Card, to hinder the third from taking it; or <hi>Gagno de l' Re</hi> when you play your Queen
+<pb n="10" facs="tcp:184781:8"/>to hinder them from taking it with the King, &amp;c. but this you cannot say till it come unto your turn.</p>
+            </div>
+            <div type="part">
+               <head>General Rules.</head>
+               <p>'Tis impossible to provide against all accidents in the Game, onely these general Rules may be observ'd in playing: First, (the chiefest Art con<g ref="char:EOLhyphen"/>sisting in knowing the goodness of ones Game, and how it may be improved to the best) one is never to win more then one trick, if they can<g ref="char:EOLhyphen"/>not win more then two, because of the advan<g ref="char:EOLhyphen"/>tage they give the Player by it in dividing the tricks: Secondly, you are alwayes to win the trick from the Player if you can, unless you let it pass for more advantage, wherein note the se<g ref="char:EOLhyphen"/>cond is to let it pass to the third; if he have the likelier Game to beast the Player, or if he be likely to win it.</p>
+            </div>
+            <div type="part">
+               <head>Of the Tenaces.</head>
+               <p>There may be divers advantages in refusing to take the players trick, but the chiefest is if you have <hi>Tenaces</hi> in your hands, that is, two Cards, which if you have the leading, you are sure to lose one of them. If the player lead to you, you
+<pb n="11" facs="tcp:184781:8"/>are sure to win them both; for example, if you have <hi>Spadillio</hi> and <hi>Basto</hi> in your hand, &amp; he have the <hi>Mallilio</hi> &amp; another Trump, if you lead you lose one of them; for either you lead your <hi>Spadillio,</hi> and he plays his lesser Trump upon it, and wins your Basto, the next Trick with his <hi>Mallilio,</hi> and so the contrary; whereas if he leads, he loses both; for if he lead his <hi>Mallilio,</hi> you take it with your <hi>Spadillio,</hi> and with your <hi>Basto</hi> win the other Trump; or if he lead with that, you take it with your <hi>Basto;</hi> and then your <hi>Spadillio</hi> wins his <hi>Mallilio,</hi> and 'tis called <hi>Tenaces,</hi> because it so catches you betwixt them, there is no avoiding it, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the Player's playing his Game for his best Advantage.</head>
+               <p>Of this (because every one plays according to his own fancy) I will onely say, that if you are not sure of winning five Tricks, but have onely the three <hi>Matadors</hi> (as for example) &amp; Kings be your Auxiliary Cards, if you have the leading, you are to begin with a <hi>Matador</hi> or two before you play your Kings, to fetch out those trumps perhaps which might have trumped them; &amp; if you have three <hi>Matadors</hi> with two other trumps your best way is first to play your <hi>Matadors,</hi>
+                  <pb n="12" facs="tcp:184781:9"/>to see how the Trumps lie, and if both follow, you are sure that if the Trump be Red, there remains onely one Trump in their hands; if black, none at all; it importing so much that the player count the Trumps, as the miscounting onely one, do's often lose the Game. In fine, if they have but a weak Game, they are to imitate cunning Beast Players, in dividing the Tricks, &amp; consult them in playing of their Cards. And these few Instructions may suffice, leaving the rest to each one's particular observation.</p>
+               <p>Certain other nice Questions there are; as whether any may look on the Tricks to see what Cards are played beside the <hi>Ombre,</hi> or he who plays the Game, which ordinarily is resol<g ref="char:EOLhyphen"/>ved on the Affirmative; or when any Cards are left in the Stock, whether any may look on them or no, which the Table led once, usually is done. Onely observe to lay your Tricks An<g ref="char:EOLhyphen"/>gle-wise, <figure>
+                     <figDesc>configuration shaped like an inverted uppercase L</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>configuration shaped like a rectangle with the bottom side missing</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>configuration shaped like a rectangle with the left side missing</figDesc>
+                  </figure>, or <figure>
+                     <figDesc>configuration shaped like an uppercase N</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>configuration shaped like the mirror image of an uppercase Greek sigma</figDesc>
+                  </figure>, to the end that one may easily perceive whether they be two, three, or four.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="addenda">
+            <pb facs="tcp:184781:9"/>
+            <head>ADDITIONS. <hi>Concerning</hi> Taking In, <hi>to be inserted</hi> page 5.</head>
+            <p n="1">1, Having once demanded whether any one will play <hi>without taking In,</hi> you oblige your self to take in, though your Game be never so good: wherefore you are well to consider it before.</p>
+            <p n="2">2. If you name not the Trump before you look on the Cards which you have taken in, any other may prevent you, and name what Trump they please.</p>
+            <p n="3">3. If (as it often happens) you know not of two Suits which to name Trump; <hi>e. g.</hi> with the two Black Aces you have three Trumps of either sorts: First, the Black Suit is to be prefer'd be<g ref="char:EOLhyphen"/>fore the Red, because there are fewer Trumps of it. Secondly, you are rather to chose that Suit of which you have not the King, because besides your three Trumps, you have a King, which is as good as a fourth.</p>
+            <p n="4">4. When you have the choice of Going in three <hi>Matadors,</hi> or the two Black Aces with three or four other Trumps, if the Stakes be great, you are to chuse this last, (as most likely to win most Tricks) if it be but a simple Stake, you are to chuse the first; because the six Coun<g ref="char:EOLhyphen"/>ters you are to receive for the <hi>Matadors,</hi> more then equivalets the four or five, you lose for the Game.</p>
+            <pb facs="tcp:184781:10"/>
+            <pb facs="tcp:184781:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
